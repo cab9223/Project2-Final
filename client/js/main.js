@@ -6568,7 +6568,7 @@ app.main = {
 				
 			}
 			if (myKeys.keydown[myKeys.KEYBOARD.KEY_J] == true){ //CHEAT CODE
-				this.environment.shake = true;
+				//this.environment.shake = true;
 				//this.environment.remote = true;
 				/* this.android17.decision= .5;
 				this.android17.evasion = false;
@@ -6583,8 +6583,8 @@ app.main = {
 				//this.android17.fieldOn = true;
 				//this.android17.stun = true;
 				//this.android17.hurtBlasting = true;
-				this.android18.endurance = 1;
-				this.android18.health = 1;
+				//this.android18.endurance = 1;
+				//this.android18.health = 1;
 				//this.android17.cinematic = true;
 				//this.vegeta.blastTrigger = true;
 				//this.vegeta.blasting = true;
